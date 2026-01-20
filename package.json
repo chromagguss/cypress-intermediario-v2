@@ -24,7 +24,7 @@
   "homepage": "https://github.com/wlsf82/cypress-intermediario-v2#readme",
   "devDependencies": {
     "@faker-js/faker": "^9.7.0",
-    "cypress": "^14.3.2",
+    "cypress": "^15.9.0",
     "cypress-plugin-api": "^2.11.2"
   }
 }
